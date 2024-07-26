@@ -64,7 +64,7 @@
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-mathjax3": "^4.3.2",
     "node-fetch": "^3.3.2",
-    "sharp": "^0.32.6",
+    "sharp": "^0.33.4",
     "simple-git": "^3.24.0",
     "tsx": "^4.7.2",
     "typescript": "^5.4.4",
